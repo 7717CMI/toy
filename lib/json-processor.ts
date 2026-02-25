@@ -1472,9 +1472,9 @@ export async function processJsonDataAsync(
     
     // Build metadata
     const metadata: Metadata = {
-      market_name: 'Normothermic Machine Perfusion Market',
+      market_name: 'Toy Market',
       market_type: 'Market Analysis',
-      industry: 'Healthcare & Pharmaceuticals',
+      industry: 'Consumer Goods & Retail',
       years: allYears,
       start_year: startYear,
       base_year: baseYear,

@@ -1,62 +1,70 @@
 {
   "Global": {
-    "By Type": {
-      "Sub-Normothermic Perfusion (20–34°C)": {},
-      "Warm or Normothermic Perfusion (35–37°C)": {}
+    "By Toy Category": {
+      "Electronic & Tech-Enabled Toys": {
+        "Interactive electronic toys": {},
+        "Robotic toys": {},
+        "App-connected toys": {},
+        "AI / smart toys": {},
+        "Others Electronic Toys": {}
+      },
+      "Licensed / Theme Toys": {
+        "Transformers / Marvel / Disney toys": {},
+        "Anime & gaming franchises (One Piece, Pokémon, etc.)": {},
+        "Movie & TV show merchandise": {},
+        "Character action figures & playsets": {},
+        "Other Theme-based Toys": {}
+      },
+      "STEM / Educational Toys": {
+        "Robotics & coding kits": {},
+        "Science experiment kits": {},
+        "Engineering kits": {},
+        "Learning board games": {},
+        "Other STEM Toys": {}
+      },
+      "Construction & Block-Building Toys": {
+        "LEGO & compatible brick toys": {},
+        "Magnetic building sets": {},
+        "Motorized building kits": {},
+        "Construction vehicles & playsets": {},
+        "Other Block Toys": {}
+      },
+      "Collectibles & Hobby Toys": {
+        "Trading cards (Pokémon, sports cards, etc.)": {},
+        "Mini-collectibles & blind boxes": {},
+        "Action figures & statues": {},
+        "Hobby kits & model kits": {},
+        "Other Collectables": {}
+      },
+      "Other Toys": {}
     },
-    "By Organ Type": {
-      "Liver": {},
-      "Heart": {},
-      "Lung": {},
-      "Kidney": {},
-      "Others (Pancreas, Small bowel / Intestine, Composite Tissues / Limb Perfusion (emerging use cases))": {}
+    "By Price Tier": {
+      "Economy / Mass-market toys": {},
+      "Mid-range toys": {},
+      "Premium & collector edition toys": {}
     },
-    "Application / Use Case": {
-      "Organ Preservation": {},
-      "Viability Assessment": {},
-      "Physiologic Transport": {},
-      "Reconditioning Marginal Organs": {},
-      "Others (Research Use / Protocol development)": {}
+    "By Age Group": {
+      "0–3 years (infant & toddler toys)": {},
+      "3–5 years (preschool toys)": {},
+      "5–12 years (core toy consumption segment)": {},
+      "Teens & adult collectors (12+ years)": {}
     },
-    "By End User": {
-      "Hospitals & Clinics": {},
-      "Specialty Clinic/Centers": {},
-      "Transplant Centers": {},
-      "Others (Research Institutes/Centers, Organ Procurement Organizations, etc.)": {}
+    "By Sales Channel": {
+      "Offline": {
+        "Toy specialty stores": {},
+        "Mass retail / supermarkets": {},
+        "Department stores": {},
+        "Hobby & collectibles stores": {}
+      },
+      "Online": {
+        "E-commerce marketplaces (Amazon, Walmart, Target)": {},
+        "Brand-owned websites": {}
+      }
     },
     "By Region": {
       "North America": {
         "U.S.": {},
         "Canada": {}
-      },
-      "Europe": {
-        "U.K.": {},
-        "Germany": {},
-        "Italy": {},
-        "France": {},
-        "Spain": {},
-        "Russia": {},
-        "Rest of Europe": {}
-      },
-      "Asia Pacific": {
-        "China": {},
-        "India": {},
-        "Japan": {},
-        "South Korea": {},
-        "ASEAN": {},
-        "Australia": {},
-        "Rest of Asia Pacific": {}
-      },
-      "Latin America": {
-        "Brazil": {},
-        "Argentina": {},
-        "Mexico": {},
-        "Rest of Latin America": {}
-      },
-      "Middle East & Africa": {
-        "GCC": {},
-        "South Africa": {},
-        "Rest of Middle East & Africa": {}
       }
     }
   }
